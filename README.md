@@ -10,14 +10,14 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-<<DEPENDENCY_INSTRUCTIONS>>
+- Node.js
 
 ### Installing
 
 How/where to download your program. Any modifications needed to be made to files/folders.
 
 ```bash
-<<INSTALL_INSTRUCTIONS>>
+npm install app
 ```
 
 ## Executing program
@@ -25,7 +25,7 @@ How/where to download your program. Any modifications needed to be made to files
 How to run the program. Step-by-step bullets.
 
 ```bash
-<<EXECUTING_INSTRUCTIONS>>
+node app.js
 ```
 
 ## Usage
