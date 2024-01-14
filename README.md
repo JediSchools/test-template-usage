@@ -39,7 +39,7 @@ myProject.doSomethingAwesome();
 
 ## Contributing
 
-Guidelines for how to help with your project.
+Guidelines for how to help with your project. Buy me a coffee?
 
 ### Code of Conduct
 
